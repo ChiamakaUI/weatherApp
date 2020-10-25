@@ -1,0 +1,26 @@
+{
+    "name":"Smash IT",
+    "short_name": "SmashIT",
+    "start_url": "/index.html",
+    "scope": "./",
+    
+    "icons": [
+        {
+            "src": "/images/weather.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "/images/weathericon.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        }
+    ],
+
+    "display": "standalone",
+    "background_color" : "#00C3FF",
+    "theme_color" : "#FFEA84",
+    "orientation" : "portrait-primary"
+    
+
+}
